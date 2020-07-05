@@ -19,6 +19,13 @@
   padding: 5px;
 }
 
+#StickyFooter {
+  text-align: right;
+  font-size: 15px;
+  color: #ea907a;
+  cursor: pointer;
+}
+
 .sticky {
   background: #fbd46d;
   border-radius: 7px;
